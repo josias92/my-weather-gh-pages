@@ -1,0 +1,35 @@
+@import 'semantic';
+// @import 'add-to-homescreen';
+@import 'weather';
+
+/* My Styles */
+
+.temp {
+    font-size: 3em;
+    
+}
+
+li {
+    list-style-type: none;
+}
+
+#cheney i {
+    color: indianred;
+    font-size: 7em;
+}
+
+#spokane i {
+    color: lavender;
+    font-size: 7em;
+}
+
+.geo i {
+    color: olive;
+    font-size: 7em;
+}
+
+/* Custom Background */
+.bg-1 {
+    background: red;
+    transition: background 7s 1s; 
+}
